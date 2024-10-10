@@ -31,13 +31,6 @@ A feature-rich e-commerce platform integrating Redux Toolkit for state managemen
 ### Blog Website
 Dynamic blog platform built on the MERN stack with interactive commenting, user authentication, and responsive design.
 
-## 🛠️ Technical Skills
-- **Languages**: JavaScript, TypeScript
-- **Frontend**: React.js, Redux Toolkit, HTML, CSS
-- **Backend**: Node.js, Express.js
-- **Databases**: SQL (MySQL), NoSQL (MongoDB)
-- **Tools**: Git, GitHub, GraphQL
-
 ## 📫 How to reach me
 - Email: madderladinesh@gmail.com
 - Portfolio: [DineshmadderlaPORT.com](http://dineshmadderlaport.com)

@@ -1,6 +1,7 @@
 # Hello, I'm Dinesh! 👋
 
-I'm a Full Stack Developer with a keen interest in web development, specializing in the MERN stack. I enjoy creating robust, scalable applications and solving challenging problems.
+I'm a Full Stack Developer with a keen interest in web development, specializing in the MERN stack.
+I enjoy creating robust, scalable applications and solving challenging problems.
 
 - 🔭 Currently working on personal web projects using MERN stack.
 - 🌱 Continuously improving skills.

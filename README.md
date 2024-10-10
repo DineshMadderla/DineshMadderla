@@ -3,7 +3,7 @@
 I'm a Full Stack Developer with a keen interest in web development, specializing in the MERN stack. I enjoy creating robust, scalable applications and solving challenging problems.
 
 - 🔭 Currently working on personal web projects using MERN stack.
-- 🌱 Continuously improving skills in GraphQL and UX/UI Design.
+- 🌱 Continuously improving skills.
 - 💬 Reach out for discussions about JavaScript, TypeScript, and backend development.
 
 ## TechStack
@@ -24,13 +24,8 @@ I'm a Full Stack Developer with a keen interest in web development, specializing
 [![Adobe PS](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](#badge-link)
 
 
-## 💼 Projects
-### E-commerce Website
-A feature-rich e-commerce platform integrating Redux Toolkit for state management, Stripe for secure payments, and a responsive user interface.
-
-### Blog Website
-Dynamic blog platform built on the MERN stack with interactive commenting, user authentication, and responsive design.
-
 ## 📫 How to reach me
-- Email: madderladinesh@gmail.com
-- Portfolio: [DineshmadderlaPORT.com](http://dineshmadderlaport.com)
+ [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madderladinesh@gmail.com)
+[![Naukri](https://img.shields.io/badge/Naukri-0055A5?style=for-the-badge&logo=career&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid)
+
+
